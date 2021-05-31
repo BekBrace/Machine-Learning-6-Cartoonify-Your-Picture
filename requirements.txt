@@ -1,0 +1,21 @@
+# opencv is used For image processing, video capture , face detection, object detection, ...etc
+# https://opencv.org
+opencv-python==4.5.2.52
+
+# Easygui is a module for simple and easy GUI programming in Python. 
+easygui==0.98.2
+
+# https://github.com/numpy
+# NumPy is the fundamental package for scientific computing in Python.
+numpy==1.20.3
+
+# Python library that provides an easy interface to read and write a wide range of image data.
+# Use it to read the stored image
+imageio==2.9.0
+
+# Matplotlib is a library for creating static, animated, and interactive visualizations in Python.
+matplotlib==3.4.2
+
+# PIL is the Python Imaging Library.
+# The Python Imaging Library adds image processing capabilities to Python interpreter.  
+Pillow==8.2.0
